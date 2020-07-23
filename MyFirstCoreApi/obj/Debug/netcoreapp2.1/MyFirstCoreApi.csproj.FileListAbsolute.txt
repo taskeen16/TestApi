@@ -1,0 +1,14 @@
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\bin\Debug\netcoreapp2.1\MyFirstCoreApi.deps.json
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\bin\Debug\netcoreapp2.1\MyFirstCoreApi.runtimeconfig.json
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\bin\Debug\netcoreapp2.1\MyFirstCoreApi.runtimeconfig.dev.json
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\bin\Debug\netcoreapp2.1\MyFirstCoreApi.dll
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\bin\Debug\netcoreapp2.1\MyFirstCoreApi.pdb
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.csprojAssemblyReference.cache
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.RazorAssemblyInfo.cache
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.RazorAssemblyInfo.cs
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.AssemblyInfoInputs.cache
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.AssemblyInfo.cs
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.dll
+C:\Users\Taskeen\Source\Repos\MyFirstCoreApi\MyFirstCoreApi\obj\Debug\netcoreapp2.1\MyFirstCoreApi.pdb
